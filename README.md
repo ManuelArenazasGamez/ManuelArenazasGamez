@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Soy **Manuel Arenazas Gámez**, estudiante de **Ingeniería en Sistemas Computacionales** con especialidad en **Seguridad e Infraestructura**. Me enfoco en el desarrollo de software, administración de sistemas, redes y ciberseguridad, integrando programación con infraestructura y servicios empresariales.
+Soy **Manuel Arenazas Gámez**, estudiante de **Ingeniería en Sistemas Computacionales** con especialidad en **Seguridad en Infraestructura y Servicios**. Me enfoco en administración de sistemas, redes y ciberseguridad, integrando programación con infraestructura y servicios empresariales.
 
 💻 Trabajo con tecnologías como **Java y Python**, bases de datos relacionales y servidores web, así como con entornos **Linux y Windows**. Tengo experiencia en virtualización, contenedores, servicios en red y administración de infraestructura tanto **on-premise** como en la **nube**.
 
