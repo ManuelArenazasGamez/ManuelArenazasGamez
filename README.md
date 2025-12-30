@@ -10,9 +10,11 @@ Soy **Manuel Arenazas Gámez**, estudiante de **Ingeniería en Sistemas Computac
 
 ### 🔧 Sistemas Operativos
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/windows%20server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 💻 Lenguajes
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,9 +22,11 @@ Soy **Manuel Arenazas Gámez**, estudiante de **Ingeniería en Sistemas Computac
 
 ### 🌐 Redes y Seguridad
 ![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/firewall-FF6F00?style=for-the-badge)
+![Sophos](https://img.shields.io/badge/sophos-2D9CDB?style=for-the-badge&logo=sophos&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfsense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -45,6 +49,7 @@ Soy **Manuel Arenazas Gámez**, estudiante de **Ingeniería en Sistemas Computac
 
 ### 🔌 Infraestructura
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ManuelArenazasGamez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
